@@ -1,0 +1,6 @@
+{
+  "name": "Propservice Solutions | Bengaluru Property Documentation & Legal Solutions",
+  "description": "Bengaluru's premier property documentation service for BBMP e-Khata, Khata Transfer, Encumbrance Certificates, and title verification with expert legal assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
